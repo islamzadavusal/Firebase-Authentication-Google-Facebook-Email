@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "956116743901",
+    "project_id": "fir-register-a6842",
+    "storage_bucket": "fir-register-a6842.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956116743901:android:c404b6c6e7d1c8fed1cd34",
+        "android_client_info": {
+          "package_name": "com.islamzada.firebaseregister"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "956116743901-9d06bvk8401ecubvh2t4budv0v61ho59.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.islamzada.firebaseregister",
+            "certificate_hash": "188a9cd38a41e4cb80c8d0691f0cdf475ef20704"
+          }
+        },
+        {
+          "client_id": "956116743901-so9of8rf7kc3pdm4u87d14rahaa4c46j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.islamzada.firebaseregister",
+            "certificate_hash": "0d73b048f00f7930b1de7cbd89030da9a98cbe43"
+          }
+        },
+        {
+          "client_id": "956116743901-hu36p2i55ugua6lve5flo54t9bj54gi9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjp7SRpiWsla8zKpIj9KKsMJg_DTwxdyU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "956116743901-hu36p2i55ugua6lve5flo54t9bj54gi9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
